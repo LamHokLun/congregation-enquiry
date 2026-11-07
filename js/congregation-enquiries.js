@@ -387,4 +387,5 @@ Faculty of Engineering`;}
 
 }
 document.write(screen.width);
+document.write(screen.height);
 select[1].addEventListener("change", mySelectI);
