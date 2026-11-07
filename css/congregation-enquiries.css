@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-@media screen and (max-width: 415px){
+@media screen and (max-width: 430px){
 		body{
 		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 		background-color: yellow;
@@ -42,7 +42,7 @@
 	}
 }
 
-@media screen and (min-width: 416px){
+@media screen and (min-width: 431px){
 		body{
 		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 		background-color: #dddddd;
