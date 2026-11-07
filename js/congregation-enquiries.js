@@ -386,5 +386,5 @@ Best regards,
 Faculty of Engineering`;}
 
 }
-
+document.write(screen.width);
 select[1].addEventListener("change", mySelectI);
