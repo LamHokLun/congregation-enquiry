@@ -1,10 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 
-/*@media screen and (max-width: 1920px){*/
+@media screen and (max-width: 400px){
 		body{
 		font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-		background-color : #dddddd;
+		background-color : yellow;
 	}
 	
 	.select1 {
@@ -40,4 +40,4 @@
 	h3:nth-of-type(2) {
 		color: #F05A24;
 	}
-	/*}*/
+	}
