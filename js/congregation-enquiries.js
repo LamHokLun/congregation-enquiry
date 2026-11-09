@@ -254,13 +254,9 @@ In the meantime, please stay tuned to email communications from enggcomm@hku.hk 
 
 else if (select[1].value == "Late registration to In-person Congregation [ONLY before xxx 12:00 noon]") {
 ansI.innerText = `We acknowledge receipt of your late registration request for the 217th In-person Congregation, Faculty of Engineering. We are pleased to inform you that special approval has been granted.
-
 Please complete your registration details within 24 hours of receiving this email. Kindly ensure you double-check that all information entered is correct before submitting the form, as no edits or updates can be made after submission.
-
 LATE registration link for In-person Congregation: https://web.engg.hku.hk/forms/congregation/online_late.asp. 
-
 If you cannot attend the Congregation in person, you will have your degree conferred in absentia at your assigned in-person session. The arrangements for certificate collection will be the same as for those attending the in-person ceremony. Please refer to the HKU Congregation website for details: https://www4.hku.hk/congreg/certificate. 
-
 Should you have any questions or encounter any issues during registration, please email: enggfac@hku.hk.`;}
 
 else if (select[1].value == "Late registration request [After xxx 17:59]") {
