@@ -261,7 +261,7 @@ LATE registration link for In-person Congregation: https://web.engg.hku.hk/forms
 
 If you cannot attend the Congregation in person, you will have your degree conferred in absentia at your assigned in-person session. The arrangements for certificate collection will be the same as for those attending the in-person ceremony. Please refer to the HKU Congregation website for details: https://www4.hku.hk/congreg/certificate. 
 
-.Should you have any questions or encounter any issues during registration, please email: enggfac@hku.hk.`;}
+Should you have any questions or encounter any issues during registration, please email: enggfac@hku.hk.`;}
 
 else if (select[1].value == "Late registration request [After xxx 17:59]") {
 ansI.innerText = `Please note that late registration for the In-person 215th Congregation is now closed.
