@@ -257,7 +257,7 @@ ansI.innerText = `We acknowledge receipt of your late registration request for t
 
 Please complete your registration details within 24 hours of receiving this email. Kindly ensure you double-check that all information entered is correct before submitting the form, as no edits or updates can be made after submission.
 
-LATE registration link for In-person Congregation: https://web.engg.hku.hk/forms/congregation/online_late.asp.
+LATE registration link for In-person Congregation: https://web.engg.hku.hk/forms/congregation/online_late.asp
 
 If you cannot attend the Congregation in person, you will have your degree conferred in absentia at your assigned in-person session. The arrangements for certificate collection will be the same as for those attending the in-person ceremony. Please refer to the HKU Congregation website for details: https://www4.hku.hk/congreg/certificate. 
 
