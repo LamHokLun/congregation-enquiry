@@ -253,7 +253,7 @@ If you would like to request late registration for the 218th Congregation, we ca
 In the meantime, please stay tuned to email communications from enggcomm@hku.hk for updates regarding your request.`;}
 
 else if (select[1].value == "Late registration to In-person Congregation [ONLY before xxx 12:00 noon]") {
-ansI.innerText = `We acknowledge receipt of your late registration request for the 217th In-person Congregation, Faculty of Engineering. We are pleased to inform you that special approval has been granted.
+ansI.innerText = `We acknowledge receipt of your late registration request for the 217th In-person Congregation, Faculty of Engineering. We are pleased to inform you that special approval has been granted. 
 
 Please complete your registration details within 24 hours of receiving this email. Kindly ensure you double-check that all information entered is correct before submitting the form, as no edits or updates can be made after submission.
 
